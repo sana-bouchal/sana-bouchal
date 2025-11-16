@@ -1,4 +1,4 @@
-# 🎪 Bienvenue au cirque du code! ✨
+# 🎪 Bienvenue ✨
 
 <div align="center">
 
@@ -6,13 +6,13 @@
     ✨ 🎭 🎪 🎨 🎯 💫 🎭 🎪 ✨
     
     Sana Bouchal - Développeuse
-    Jongleuse de codes & Créatrice de magie digitale
+    Créatrice de magie digitale
     Maîtrise des langages & Architectures logicielles
     
     ✨ 🎭 🎪 🎨 🎯 💫 🎭 🎪 ✨
 ```
 
-*Transforme des idées en applications performantes et robustes* 🚀
+*Transforme des idées en applications performantes et robustes*
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**Étudiante en 2ème année de Licence d'Informatique** 🎓  
+**Étudiante en 2ème année de Licence d'Informatique, je cherche un stage de 2 mois de Mai à Juillet**  
 *Développement avancé | Architectures logicielles | Gestion de projet*
 
 > *"Le code est mon langage universel pour créer la magie digitale"* 🎪✨
@@ -37,7 +37,7 @@ Passionnée par la résolution de problèmes techniques complexes et l'optimisat
 
 <table><tr><td valign="top" width="33%">
 
-### 💾 Langages de programmation
+### Langages de programmation
 
 **C/C++**
 - Optimisation Linux & Windows
@@ -60,7 +60,7 @@ Passionnée par la résolution de problèmes techniques complexes et l'optimisat
 
 </td><td valign="top" width="33%">
 
-### 🏗️ Développement logiciel
+### Développement logiciel, ma specialisation
 
 **Architecture & Design**
 - Programmation orientée objet avancée
@@ -80,8 +80,6 @@ Passionnée par la résolution de problèmes techniques complexes et l'optimisat
 
 </td><td valign="top" width="33%">
 
-### 🛠️ Outils & Méthodologies
-
 **Gestion de Projet**
 - Méthodes Agile
 - Kanban
@@ -97,7 +95,7 @@ Passionnée par la résolution de problèmes techniques complexes et l'optimisat
 
 ---
 
-## 🎯 Expertise en domaines clés
+## Expertise en domaines clés
 
 <div align="center">
 
@@ -119,24 +117,5 @@ Passionnée par la résolution de problèmes techniques complexes et l'optimisat
 🚀 **Optimiser** mes connaissances pour des applications performantes  
 🛡️ **Développer** des logiciels sécurisés et robustes  
 👥 **Collaborer** efficacement avec les méthodes Agile  
-
-</div>
-
----
-
-## 🌟 Mon mantra
-
-<div align="center">
-
-> *"Avec du code bien structuré, une architecture solide et de la rigueur,*  
-> *on crée des solutions qui dansent au rythme de la performance!"* 🎪✨
-
-</div>
-
----
-
-<div align="center">
-
-**Prête à construire des systèmes extraordinaires? Explorons ensemble!** 🚀
 
 </div>
