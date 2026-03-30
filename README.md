@@ -5,25 +5,24 @@
 ```
     ✨ 🎭 🎪 🎨 🎯 💫 🎭 🎪 ✨
     
-    Sana Bouchal - Développeuse
+    Sana Bouchal
     Créatrice de magie digitale
-    Maîtrise des langages & Architectures logicielles
+    Conception et developpement logiciel
     
     ✨ 🎭 🎪 🎨 🎯 💫 🎭 🎪 ✨
-```
+
 
 *Transforme des idées en applications performantes et robustes*
 
 </div>
 
----
 
 ## 🎭 À propos de moi
 
 <div align="center">
 
 **Étudiante en 2ème année de Licence d'Informatique, je cherche un stage de 2 mois de Mai à Juillet**  
-*Développement avancé | Architectures logicielles | Gestion de projet*
+*Développement avancé Gestion de projet*
 
 > *"Le code est mon langage universel pour créer la magie digitale"* 🎪✨
 
