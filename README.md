@@ -14,7 +14,6 @@
 
 *Transforme des idées en applications performantes et robustes*
 
-</div>
 
 
 ## 🎭 À propos de moi
